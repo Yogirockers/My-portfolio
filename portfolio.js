@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://my.github.io/",
+	
 	linkedin: "https://www.linkedin.com/in/yogeshwaran-m-67013924a",
 	github: "https://github.com/Yogirockers",
 	instagram: "https://www.instagram.com/yogeshakthi143/",
@@ -166,7 +166,7 @@ export const seoData = {
 		"A passionate FRONT-END DEV",
 	author: "Yogeshwaran M",
 	image: "/img/icons/common/yogi.webp",
-	url: "my.github.io/",
+	
 	keywords: [
 		"Yogesh",
 		"Yogeshwaran M",
