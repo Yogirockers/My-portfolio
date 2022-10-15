@@ -107,7 +107,7 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: " Chettinad College of Engineering and technology,Karur",
+		schoolName: " Chettinad College of Engineering and technology,Karur.",
 		subHeader: "Bachelor of Engineering in Computer Science",
 		duration: "September 2019 - April 2023",
 		desc: " PROJECTS :",
