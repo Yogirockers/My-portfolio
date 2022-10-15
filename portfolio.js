@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://my.github.io/",
+	url: "https://My.github.io/",
 	linkedin: "https://www.linkedin.com/in/yogeshwaran-m-67013924a",
 	github: "https://github.com/Yogirockers",
 	instagram: "https://www.instagram.com/yogeshakthi143/",
