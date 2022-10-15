@@ -166,7 +166,7 @@ export const seoData = {
 		"A passionate FRONT-END DEV",
 	author: "Yogeshwaran M",
 	image: "/img/icons/common/yogi.webp",
-	url: "#",
+	url: "my.github.io/",
 	keywords: [
 		"Yogesh",
 		"Yogeshwaran M",
