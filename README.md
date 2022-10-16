@@ -104,11 +104,11 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **YOGESHWARAN M**
 
 -   Website: https://.netlify.app
--   Github: [@1hanzla100](https://github.com/Yogirockers)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/)
+-   Github: [@Yogirockers](https://github.com/Yogirockers)
+-   LinkedIn: [@yogirockers](https://linkedin.com/in/)
 
 ## Show your support
 
