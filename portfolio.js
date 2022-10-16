@@ -113,7 +113,7 @@ export const educationInfo = [
 		desc: " PROJECTS :",
 		grade: "Grade A",
 		descBullets: [
-			" GRAPHICAL PASSWORD AUTHENTICATION ( Mini Project )",
+			" GRAPHICAL PASSWORD AUTHENTICATION  ( Mini Project )",
 			" ESTIMATE CROP YIELD USING DATA ANALYSTICS ( IBM project )",
 		],
 	},
