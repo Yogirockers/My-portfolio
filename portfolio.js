@@ -157,6 +157,11 @@ export const feedbacks = [
 		feedback:
 			"I GIVE RATING : Awesome!!! (4.5★)",
 	},
+	{
+		name: " SUGUMAR M",
+		feedback:
+			"I GIVE RATING : Excellent! (5★)",
+	},
 ];
 
 // See object prototype on SEO.jsx page
