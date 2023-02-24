@@ -141,7 +141,7 @@ export const projects = [
 		name: " Graphical Password Authetication",
 		desc: "Authentication Purpose !",
 		github: "https://github.com/Yogirockers/Graphical-Password-Authetication",
-		link: "https://Graphical Password Authetication-Yogirockers.netlify.app/",
+		link: "https://yogi-gpa.netlify.app/",
 	},
 	
 ];
